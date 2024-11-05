@@ -8,6 +8,10 @@
 In terms of interaction, Discord Finder maintains a casual and friendly tone, making it approachable and easy to engage with. This helps create a comfortable atmosphere where users feel supported in their search for communities. The GPT provides direct links to the recommended Discord servers, making it convenient for users to access and join them right away. Overall, Discord Finder acts as a personalized guide, simplifying the process of finding the perfect Discord server by understanding each user’s unique interests and delivering tailored recommendations.
 
 #
+
+> Alex: "*I don't have time to manage Discord for Sourceduty.*"
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
