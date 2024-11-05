@@ -11,6 +11,8 @@ In terms of interaction, Discord Finder maintains a casual and friendly tone, ma
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Sourceduty Discord](https://discord.com/users/1186540670001877012)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
